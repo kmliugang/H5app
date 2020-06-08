@@ -1,6 +1,7 @@
 <template>
   <div>
       <h2>liugang</h2>
+      <h3>kami</h3>
   </div>
 </template>
 
@@ -12,6 +13,6 @@ export default {
 
 <style lang="scss" scoped>
 h2{
-  color: red;
+  color: green($color: #000000);
 }
 </style>
