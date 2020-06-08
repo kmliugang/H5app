@@ -2,6 +2,7 @@
   <div>
       <h2>liugang</h2>
       <h3>kami</h3>
+      <strong>qiangdiao</strong>
   </div>
 </template>
 
